@@ -4,9 +4,5 @@ def crazy_strings
   .upcase.reverse
   string two = string_two
   .swapcase.gsub ("s,z")
-  
 end
 
-def crazy_strings(a,b)
-
-end
