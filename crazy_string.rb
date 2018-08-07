@@ -6,3 +6,4 @@ def crazy_strings
   .swapcase.gsub ("s,z")
 end
 
+crazy_strings("Hello, friends")
